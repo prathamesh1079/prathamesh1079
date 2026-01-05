@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on various Data Science, AI, ML projects i also work on databases, skilled in python also skilled in web devvelopment. I am a fresher
+Motivated and detail-oriented software developer with hands-on experience building and maintaining personal and open-source projects on GitHub. Skilled in developing practical applications such as QR code generation tools, with a strong interest in learning new technologies and writing clean, efficient code. Demonstrates initiative through independent projects, continuous skill development, and active participation in the developer community. Seeking opportunities to apply problem-solving skills and grow as a developer in a collaborative environment.
 
 
 ## 🌐 Socials:
