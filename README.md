@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated and detail-oriented software developer with hands-on experience building and maintaining personal and open-source projects on GitHub. Skilled in developing practical applications such as QR code generation tools, with a strong interest in learning new technologies and writing clean, efficient code. Demonstrates initiative through independent projects, continuous skill development, and active participation in the developer community. Seeking opportunities to apply problem-solving skills and grow as a developer in a collaborative environment.
+Aspiring Data Analyst passionate about uncovering actionable insights from complex datasets. Skilled in SQL, Python (Pandas, NumPy), and building interactive dashboards in Power BI / Tableau. Focused on end-to-end data pipelines, exploratory data analysis, and translating raw metrics into business decisions. Constantly building real-world projects, refining statistical modeling techniques, and looking to contribute analytical solutions to high-impact teams. Open to data analytics roles and collaborative open-source data projects!
 
 
 ## 🌐 Socials:
